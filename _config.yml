@@ -1,7 +1,7 @@
 name: InfiniteIQ Consulting
 favicon: null
-layout_spectrum: 0.18375089252367616
-typography_spectrum: 0.7009146884083748
+layout_spectrum: 0
+typography_spectrum: 0.73829
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#bf1e2d'
+    - '#6d6e71'
+    - '#bdbec0'
+    - '#000000'
+    - '#ffffff'
   brandStrength: 0.8248961705248803
   lightness: 0.4128996217623353
   saturation: 0.9246274153701961
