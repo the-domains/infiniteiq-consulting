@@ -1,6 +1,6 @@
 name: InfiniteIQ Consulting
 favicon: null
-layout_spectrum: 0.24497
+layout_spectrum: 1
 typography_spectrum: 0.73829
 title: InfiniteIQ Consulting
 cta:
@@ -24,6 +24,6 @@ color:
     - '#ffffff'
   brandStrength: 0.8248961705248803
   lightness: 0.4128996217623353
-  saturation: 0.9246274153701961
+  saturation: 0.5
   rhythmicContrast: 0.725287799956277
 purpose: []
